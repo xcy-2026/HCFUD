@@ -27,4 +27,10 @@ Before running the code, please make sure to install the dependencies：
 python train.py
 ```
 
-# Test
+# Validate
+```
+python validate.py
+```
+
+# Thanks
+Center for Advanced Computing, School of Computer Science, China Three Gorges University
